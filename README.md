@@ -36,6 +36,8 @@ vi.  Sales By Outlet location
 
 Pandas, Numpy, Matplotlib, Seaborne, Data Cleaning and Data Transformation.
 
+![P11](https://github.com/user-attachments/assets/d32bfc24-9f99-4d97-ad0f-6062b9311df6)
+
 ## Tools Used
 
 Python
